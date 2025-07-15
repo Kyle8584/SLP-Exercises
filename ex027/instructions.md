@@ -15,5 +15,4 @@ an ArithmeticException
 
 #### Notes
 - This is a simple algorithm to approximate the logarithm of a number!
--You
 
